@@ -3,10 +3,13 @@ Web-Application di un catalogo di videogiochi in C# (ASP_NET).
 
 ---
 ### **[NuGet](https://www.nuget.org/)**
-
 **dotnet-ef**:
   ```cs
     dotnet tool install --global dotnet-ef --version 8.0.2
+  ```
+**MinimalApis.Extensions**:
+  ```cs
+    dotnet add package MinimalApis.Extensions --version 0.11.0
   ```
 **Microsoft.EntityFrameworkCore.Sqlite**:
   ```cs
@@ -20,6 +23,10 @@ Web-Application di un catalogo di videogiochi in C# (ASP_NET).
 ---
 
 ### **Build/Run Project**
+  ```cs
+    ../WebApplication.API > dotnet new list
+  ```
+
   ```cs
     ../WebApplication.API > dotnet build
   ```
