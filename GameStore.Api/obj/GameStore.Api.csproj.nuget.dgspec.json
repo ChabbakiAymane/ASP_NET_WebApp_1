@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore_v1_v2\\ASP_NET_WebApp_1\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore_v1_v2\\ASP_NET_WebApp_1\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore_v1_v2\\ASP_NET_WebApp_1\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore_v1_v2\\ASP_NET_WebApp_1\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\Ayman\\Desktop\\CHABBY\\CyberChabby\\DotNet\\GameStore_v1_v2\\ASP_NET_WebApp_1\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ayman\\AppData\\Roaming\\NuGet\\NuGet.Config"
