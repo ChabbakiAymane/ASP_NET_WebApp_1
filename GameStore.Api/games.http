@@ -2,29 +2,29 @@
 GET http://localhost:5006/games
 
 ###
-GET http://localhost:5006/games/2
+GET http://localhost:5006/games/6
 
 ###
 POST http://localhost:5006/games
 Content-Type: application/json
 
 {
-    "name": "League Of Legends",
-    "genreId": 1,
-    "price": 0.99,
+    "name": "Spyro Reignited Trilogy",
+    "genreId": 2,
+    "price": 15.99,
     "release": "2020-12-10"
 }
 
 ###
-PUT http://localhost:5006/games/4
+PUT http://localhost:5006/games/8
 Content-Type: application/json
 
 {
-    "name": "Avatar 2",
+    "name": "Spyro 2",
     "genreId": 2,
-    "price": 9.99,
-    "release": "2020-12-10"
+    "price": 49.99,
+    "releaseDate": "2020-12-10"
 }
 
 ###
-DELETE http://localhost:5006/games/6
+DELETE http://localhost:5006/games/9

@@ -10,8 +10,11 @@ builder.Services.AddSqlite<GameStoreContext>(connectionString);
 
 
 var app = builder.Build();
-app.MapGamesEndpoints();
 
-app.MigrateDB();
+app.MapGamesEndpoints();
+app.MapGenresEndpoints();
+
+// Richiamo la funzione in modo asincrono
+await app.MigrateDBAsync();
 
 app.Run();
